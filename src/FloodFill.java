@@ -2,13 +2,11 @@
  * Java Program to Implement Flood Fill Algorithm
  */
 
+import java.util.*;
+
 /*
  * Created by Devashish Katoriya on 15/3/17.
  */
-
-import java.util.Scanner;
-import java.util.Arrays;
-
 
 public class FloodFill                                      //Class FloodFill
 {
